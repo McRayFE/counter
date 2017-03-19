@@ -1,0 +1,27 @@
+*{
+    margin:0;
+    padding:0
+}
+table{
+    margin:0 auto;
+    border-collapse: collapse;
+}
+td{
+    width:150px;
+    line-height:70px;
+}
+.btn{
+    width:150px;
+    line-height: 70px;
+    font-size:x-large;
+}
+.btn_click{
+    width:300px;
+    line-height: 70px;
+    font-size:x-large;
+}
+.txt{
+    width:600px;
+    line-height:70px;
+}
+
